@@ -1,2 +1,2 @@
-where are you from?
-I'm in huangshi.
+Git is a distributed version control system.
+Git is free software.
